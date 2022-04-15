@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Online_Movie_Ticket_Booking.Main" %>
+
+<html>
+
+<head runat="server">    
+    <link href="Content/bootstrap.css" rel="stylesheet" />    
+    <title>Online Movie Ticket Booking</title>
+
+    
+</head>
+<body>
+    <div  class="bg-dark row"  style="height:56px; width:1551px">
+        <div class="col-md-10 pt-1 pb-1" style="height: 36px">
+            <a href="Default.aspx">
+                <button class="btn-link text-white bg-dark border-0" runat="server" onclick="btn_click" style="font-family: 'Buxton Sketch'; font-size: x-large; width: 1300px; height: 55px;">Online Movie Ticket Booking</button>
+            </a>
+        </div>
+        <div class="col-md-2 pt-1 pb-1">
+            <%--<a href="Login.aspx">
+               <button class="btn-link text-white bg-dark border-0" runat="server" onclick="btn_click" style="font-family: 'Buxton Sketch'; font-size: x-large; height: 55px; width: 110px;">Login</button>
+            </a>--%>
+            <a href="Aboutus.aspx">
+               <button class="btn-link text-white bg-dark border-0" runat="server" onclick="btn_click" style="font-family: 'Buxton Sketch'; font-size: x-large; height: 55px; width:250px; text-align: center;" >About Us</button>
+            </a>
+        </div>   
+    </div>
+   
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <footer class="row" id="footer" style="padding-left:45%; font-weight: bold; font-family: 'Comic Sans MS'; font-size:medium; padding-top:1%; padding-bottom:1%; background-color: black; color: white; width:1551px">  
+    copyright @Sameer Valanju  
+    </footer>
+</body>
+
+</html>

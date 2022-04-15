@@ -1,0 +1,13 @@
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.dll.config
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.dll
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.pdb
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.csprojResolveAssemblyReference.cache
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.dll
+D:\Project\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.pdb
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.dll.config
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.dll
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\bin\Online Movie Ticket Booking.pdb
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.csproj.CoreCompileInputs.cache
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.dll
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.pdb
+D:\Projects\.Net Projects\Online Movie Ticket Booking\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.csproj.AssemblyReference.cache
